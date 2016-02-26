@@ -2,11 +2,11 @@
 成功
 pppppppppppppppppppppppppppppppppppppppppppp
 
-<<<<<<< HEAD
+
 哈哈哈哈哈哈哈
 dddddddd
 11111111111111
 
-=======
-哈哈哈哈哈哈哈 
 
+哈哈哈哈哈哈哈 
+99999999999
